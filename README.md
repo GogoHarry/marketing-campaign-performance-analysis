@@ -508,9 +508,9 @@ The organization needed to optimize marketing spend, improve customer targeting,
 
 ## 📞 Contact & Collaboration
 
-**Project Author:** Harrison Gogo
-**LinkedIn:** https://www.linkedin.com/in/gogo-harrison
-**Email:** gogoharrison66@gmail.com
+- **Project Author:** Harrison Gogo
+- **LinkedIn:** https://www.linkedin.com/in/gogo-harrison
+- **Email:** gogoharrison66@gmail.com
 
 ### Contributing
 This project is open for collaboration. If you have suggestions for improvements or would like to contribute:
